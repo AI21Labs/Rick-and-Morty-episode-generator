@@ -16,7 +16,7 @@ export const DEFAULT_TITLE_OPTIONS = {
     temperature: 0.9,
     topP: 1,
     topKReturn: 0,
-    stopSequences: ["##"],
+    stopSequences: ["\n##"],
     frequencyPenalty: {
       scale: 1,
       applyToWhitespaces: true,
