@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/118735447/212035080-e4f736c7-94a7-4381-a3c6-ce18cdb7e761.png" width="400">
 </p>
+
 # Rick and Morty Episode Generator
 
 An interactive one-pager browser game, primarily built with React.js. It makes use of the state-of-the-art Jurassic-1 language model to generate made-up episodes of the popular animated science fiction TV show Rick and Morty.
