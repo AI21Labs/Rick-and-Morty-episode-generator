@@ -10,7 +10,7 @@ export const generateEndSceneOptions = (plot) => {
     },
       body: JSON.stringify({
       numResults: 1,
-      maxTokens: 30,
+      maxTokens: 50,
       temperature: 0.8,
       topKReturn: 0,
       topP:1,

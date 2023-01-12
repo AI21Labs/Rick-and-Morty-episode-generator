@@ -10,7 +10,7 @@ export const generatePlotOptions = (title) => {
     },
       body: JSON.stringify({
       numResults: 1,
-      maxTokens: 120,
+      maxTokens: 400,
       temperature: 0.8,
       topKReturn: 0,
       topP:1,
