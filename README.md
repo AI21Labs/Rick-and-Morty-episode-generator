@@ -11,15 +11,19 @@ An interactive one-pager browser game, primarily built with React.js. It makes u
 
 `git clone https://github.com/AI21Labs/Rick-and-Morty-Episode-Generator.git`
 
-2. Install dependencies
+2. Navigate to cloned folder
+
+`cd Rick-and-Morty-Episode-Generator`
+
+3. Install dependencies
 
 `npm install`
 
-3. Start the game in your local environment
+4. Start the game in your local environment
 
 `npm start`
 
-4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Play
 
