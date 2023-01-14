@@ -19,7 +19,8 @@ function EpisodeGenerator() {
       <div className="generte-form">
         <div className="generate-mini-form">
           <Button
-            onClick={generateTitle}
+          /* ------------ Repetitive code ------------ */
+            onClick={generateTitle} 
             isDisabled={titleIsLoading}
             text={"Generate Title"}
             isLoading={titleIsLoading}
