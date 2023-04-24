@@ -1,6 +1,6 @@
 import { API_KEY } from "./apiKey.consts";
 export const END_SCENE_PROMPT_ENDPOINT =
-  "https://api.ai21.com/studio/v1/j1-grande/complete";
+  "https://api.ai21.com/studio/v1/j2-grande/complete";
   
 export const generateEndSceneOptions = (plot) => {
   return {
