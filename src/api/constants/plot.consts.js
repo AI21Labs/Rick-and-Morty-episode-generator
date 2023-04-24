@@ -1,6 +1,6 @@
 import { API_KEY } from "./apiKey.consts";
 export const PLOT_PROMPT_ENDPOINT =
-  "https://api.ai21.com/studio/v1/j1-grande/complete";
+  "https://api.ai21.com/studio/v1/j2-grande/complete";
   
 export const generatePlotOptions = (title) => {
   return {
