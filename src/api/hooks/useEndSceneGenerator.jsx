@@ -4,7 +4,7 @@ import { generateEndSceneOptions, END_SCENE_PROMPT_ENDPOINT } from '../constants
 /* Usage of up to date methods (Functional components, React hooks) */
 
 export const useEndSceneGenerator = (plot) => { // Self explanatory function name
-    const [endScene, setEndScene] = useState(""); // Set the end scene state
+    const [endScene, setEndScene] = useState(""); // Set the end scene state here
     const [endSceneIsLoading, setEndSceneIsLoading] = useState(false);  
 
     const changeEndSceneManually = useCallback((e) => {
